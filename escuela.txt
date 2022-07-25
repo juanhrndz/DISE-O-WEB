@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escuela de Futbol</title>
+</head>
+<body>
+    <hr>
+    <h1 align="center"> <img src="balon.jpg" align="center-right" width="70" height="70" border="4" alt=""> ESCUELA DE FUTBOL JOHAN CRUYFF      <img src="buscar.jpg" align="center-right" width="200" height="30" border="4" alt="">   </h1>
+     <img src="barri.jpg"  align="" width="70" height="100" border="4" alt="">   
+
+    <table  width="200" height="200"  align="center"  >
+<tr border="4"  widht="950"> <img src="futbol1.jpg" align="center-right" width="950" height="150" border="4" alt="">
+</td>
+
+<tr  border="4" >   <p>  <font size="5">  Las escuelas de fútbol están orientadas hacia el desarrollo completo de las capacidades y habilidades de los jugadores. Estas tratan de mejorar sus cualidades volitivas tan fundamentales en los deportes de equipo, tales como la voluntad, el esfuerzo y la cooperación.</p> </font> </tr>
+<td align="right"   <p> <font size="5"> APROVECHA ESTA PROMOCIÓN.....!!!!!  
+                  <p>                Escuela de Futbol ...........!!!!!
+                  <p> Aprende de los grandes el deporte más lindo del mundo.
+                  </p> </font>
+                  </font> 
+</td> 
+<td align="right" widht="80">  <img src="futbol2.jpg" width="400" height="250"  border="4"  alt="">>
+</td>
+ </table>
+
+<tr align="right" widht="150">  <img src="logos.jpg" width="700" height="60"  border="4"  alt="">>
+</tr>
+<tr align="lefts"  <p>  <font size="6"> CONTACTANOS!!!  </p> </font>
+</tr>
+
+</body>
+</html>
